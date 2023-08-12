@@ -1,0 +1,7 @@
+Classroom South, 33.753080, -84.387680
+Urban Life Building, 33.751720, -84.385628
+Petit Science Center, 33.751060, -84.385870
+Aderhold Learning Center, 33.756340, -84.389153
+Library South, 33.752350, -84.386580
+Langdale Hall, 33.7533168, -84.3872106
+Sparks Hall, 33.7535767, -84.3863113
